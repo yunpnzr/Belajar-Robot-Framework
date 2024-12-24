@@ -1,0 +1,4 @@
+textUsername : //*[@id="user-name"]
+textPassword : //*[@id="password"]
+btnLogin : //*[@id="login-button"]
+textAlert : //*[@id="login_button_container"]/div/form/div[3]
